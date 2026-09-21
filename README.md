@@ -47,6 +47,18 @@
 
 ---
 
+### 🐍 Contribution Graph Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiuren-canete/kiuren-canete/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiuren-canete/kiuren-canete/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kiuren-canete/kiuren-canete/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 <div align="center">
   <sub>Engineered by <strong>Kiuren Canete (Jay)</strong> • Architecting autonomous systems at Spawntel</sub>
 </div>
