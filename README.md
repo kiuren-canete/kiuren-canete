@@ -9,7 +9,7 @@ Founder and systems architect at **[Spawntel](https://github.com/Spawntel)**, de
 ### Runtime Architecture
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Agent Runtime" />
+  <img src="./assets/runtime.svg" width="100%" alt="Agent Runtime" />
 </p>
 
 ---
